@@ -57,7 +57,7 @@ const Experience = () => {
             position="Software Engineer Intern"
             company="WalletGyde"
             companyLink="https://walletgyde.com/"
-            time="June 2024 - Present"
+            time="June 2024 - January 2025"
             address="Denver, CO"
             work="I spearheaded the migration from Bubble.io to a scalable web application using Next.js and DynamoDB, improving user experience across devices. I also developed a Personal Loan Calculator to enhance engagement and researched AI-based matchmaking algorithms to create more personalized experiences. Additionally, I optimized the platform by implementing APIs that streamlined data retrieval and improved system performance."
           />
