@@ -28,7 +28,7 @@ export default function Home() {
               />
 
               <p className="my-4  font-medium md:text-base sm:text-sm leading-tight text-justify">
-                 I'm a Software Engineer who lives at the intersection of clean,
+                 I&apos;m a Software Engineer who lives at the intersection of clean,
   user-centric interfaces and applied AI — from building React/Next.js
   products used by real customers to engineering computer vision and
   automation pipelines that keep enterprise financial systems accurate
@@ -36,7 +36,7 @@ export default function Home() {
   <br />
   <br />
   What excites me most is turning messy, manual processes into
-  intelligent systems — whether that's an AI pipeline catching document
+  intelligent systems — whether that&apos;s an AI pipeline catching document
   defects with 99%+ accuracy, or a component library that helps a team
   ship faster. I care about the full stack, from pixel-perfect UI to the
   logic running underneath it.
