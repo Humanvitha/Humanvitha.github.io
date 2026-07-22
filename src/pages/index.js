@@ -28,15 +28,16 @@ export default function Home() {
               />
 
               <p className="my-4  font-medium md:text-base sm:text-sm leading-tight text-justify">
-                I’m a passionate software engineer focused on building scalable,
-                efficient, and user-friendly applications. With a blend of
-                industry experience and academic knowledge, I enjoy solving
-                complex challenges and creating impactful solutions that stand
-                out.
+                I'm a Software Engineer at Barclays, building AI-powered
+                automation and testing platforms for enterprise credit card
+                systems — from computer vision pipelines that catch document
+                defects with 99%+ accuracy to intelligent tools that turn
+                multi-day testing cycles into minutes.
                 <br />
                 <br />
-                Let’s collaborate to bring innovative ideas to life and create
-                solutions that leave a lasting impact!
+                I love combining full-stack development with applied AI to
+                solve real, high-stakes engineering problems, and I'm always
+                looking for the next challenge where the two intersect.
               </p>
 
               <div className="flex items-center self-start mt-4 lg:self-start">
