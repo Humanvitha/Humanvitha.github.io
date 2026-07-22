@@ -28,16 +28,18 @@ export default function Home() {
               />
 
               <p className="my-4  font-medium md:text-base sm:text-sm leading-tight text-justify">
-                I'm a Software Engineer at Barclays, building AI-powered
-                automation and testing platforms for enterprise credit card
-                systems — from computer vision pipelines that catch document
-                defects with 99%+ accuracy to intelligent tools that turn
-                multi-day testing cycles into minutes.
-                <br />
-                <br />
-                I love combining full-stack development with applied AI to
-                solve real, high-stakes engineering problems, and I'm always
-                looking for the next challenge where the two intersect.
+                 I'm a Software Engineer who lives at the intersection of clean,
+  user-centric interfaces and applied AI — from building React/Next.js
+  products used by real customers to engineering computer vision and
+  automation pipelines that keep enterprise financial systems accurate
+  and compliant.
+  <br />
+  <br />
+  What excites me most is turning messy, manual processes into
+  intelligent systems — whether that's an AI pipeline catching document
+  defects with 99%+ accuracy, or a component library that helps a team
+  ship faster. I care about the full stack, from pixel-perfect UI to the
+  logic running underneath it.
               </p>
 
               <div className="flex items-center self-start mt-4 lg:self-start">
