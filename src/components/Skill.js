@@ -70,7 +70,7 @@ const Skill = () => {
           description="Built scalable web apps with server-side rendering."
         />
         <Skills
-          name="Tailwind CSS"
+          name="Dynamo DB"
           x="15vw"
           y="-12vw"
           description="Used to design modern, responsive web layouts."
