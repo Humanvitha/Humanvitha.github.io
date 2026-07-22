@@ -40,27 +40,71 @@ const about = () => {
                 <ParticlesContainer />
 
                 {/* Intro Section */}
-                <motion.div
+                                <motion.div
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8 }}
                 >
                   <p className="font-medium text-justify mb-4">
-                    Hi, I’m <strong>Humanvitha</strong>, a Computer Science
-                    graduate student at
-                    <strong> California State University, Long Beach</strong>,
-                    with a strong academic foundation and hands-on experience in
-                    software engineering.
+                    Hi, I’m <strong>Humanvitha</strong>, a Software Engineer
+                    with 3+ years of experience across FinTech and enterprise
+                    banking, and a Master’s in Computer Science from{" "}
+                    <strong>California State University, Long Beach</strong>.
                   </p>
                   <p className="font-medium text-justify mb-4">
-                    My technical expertise includes programming languages such
-                    as <strong>Python, C, Java, R, JavaScript</strong>, and
-                    frameworks like{" "}
-                    <strong>ReactJS, Next.js, Drupal, and GraphQL</strong>. I’m
+                    My technical expertise spans{" "}
+                    <strong>Python, Java, JavaScript, and TypeScript</strong>,
+                    with frameworks like{" "}
+                    <strong>React, Next.js, Django, and GraphQL</strong>. I’m
                     also well-versed in databases like{" "}
                     <strong>MySQL, MongoDB, DynamoDB</strong>, and cloud
-                    platforms like <strong>AWS</strong> and <strong>GCP</strong>
-                    .
+                    platforms like <strong>AWS</strong> and <strong>GCP</strong>.
+                  </p>
+                </motion.div>
+
+                {/* Professional Experience Section */}
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.8, delay: 0.2 }}
+                >
+                  <p className="my-4 font-medium text-justify">
+                    I’m currently a <strong>Software Engineer</strong> at{" "}
+                    <strong>Barclays</strong>, where I build AI-powered
+                    automation and testing platforms for enterprise credit
+                    card systems — including a computer vision pipeline that
+                    catches document defects with 99%+ accuracy and tooling
+                    that turned a 2-day manual testing cycle into 45 minutes.
+                    Earlier, as a <strong>Software Engineer Intern</strong> at{" "}
+                    <strong>WalletGyde</strong>, I led a platform migration
+                    that improved scalability and lifted user adoption by
+                    40%, and at <strong>Tata Consultancy Services</strong>, I
+                    built responsive web applications for Lloyds Bank,
+                    automated compliance workflows, and improved release
+                    velocity through better version control practices.
+                  </p>
+                </motion.div>
+
+                {/* Leadership and Collaboration Section */}
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.8, delay: 0.4 }}
+                >
+                  <p className="font-medium text-justify">
+                    What excites me most is turning messy, manual processes
+                    into intelligent systems — I care about the full stack,
+                    from pixel-perfect UI to the AI and automation logic
+                    running underneath it. As a former{" "}
+                    <strong>Graduate Assistant</strong> at CSULB, I also
+                    managed data integrity and modernized content management
+                    systems to streamline operations. My projects span from
+                    e-commerce platforms to real-time communication systems.
+                  </p>
+                  <p className="font-medium text-justify mt-4">
+                    I’m always eager to take on new challenges, contribute to
+                    impactful projects, and continue growing at the
+                    intersection of full-stack engineering and applied AI.
                   </p>
                 </motion.div>
 
