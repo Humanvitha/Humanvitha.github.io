@@ -133,8 +133,7 @@ const about = () => {
                   transition={{ duration: 0.8, delay: 0.4 }}
                 >
                   <p className="font-medium text-justify">
-                    I’m also passionate about leadership and collaboration.
-                    Currently, as a <strong>Graduate Assistant</strong> at
+                    As a <strong>Graduate Assistant</strong> at
                     CSULB, I manage data integrity and revamp content management
                     systems to streamline operations. My projects span from
                     e-commerce platforms to real-time communication systems.
