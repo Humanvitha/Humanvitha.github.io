@@ -54,6 +54,14 @@ const Experience = () => {
 
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
+            position="Software Engineer"
+            company="Barclays"
+            companyLink="https://www.barclays.com/"
+            time="July 2025 - Present"
+            address="USA"
+            work="I architected a VBA-based automation platform interfacing directly with the TSYS mainframe for credit card change validation, reducing a 2-day manual testing cycle to 45 minutes and saving 200+ engineering hours per quarter. I also built a Python-based AI computer vision pipeline using image differencing, OCR, and ML-based pattern recognition to validate customer credit card documents, achieving 99.2% defect detection accuracy. Additionally, I developed an AI-driven rewards verification engine validating 50,000+ transactions per cycle, and led end-to-end testing strategy across 12+ production releases, integrating AI-powered anomaly detection and predictive test prioritization to cut regression cycle time by 35%."
+          />
+          <Details
             position="Software Engineer Intern"
             company="WalletGyde"
             companyLink="https://walletgyde.com/"
@@ -65,7 +73,7 @@ const Experience = () => {
             position="Graduate Assistant"
             company="CSULB"
             companyLink="https://www.csulb.edu/"
-            time="March 2024-Present"
+            time="March 2024 - May 2025"
             address="Long Beach, CA"
             work="I reorganized and streamlined dataset management processes to ensure data integrity, enhancing accuracy and supporting data-driven decision-making. Additionally, I revamped a Drupal-based CMS, automating outreach for course and internship updates, which led to a significant boost in student enrollments and placements."
           />
@@ -88,6 +96,7 @@ const Experience = () => {
             work="I developed web applications for IoT device management, enhancing data handling and system performance. Additionally, I designed user-friendly IoT applications with Blynk, improving home automation experiences through customer-focused designs."
           />
         </ul>
+           
       </div>
     </div>
   );
