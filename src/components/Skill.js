@@ -64,16 +64,16 @@ const Skill = () => {
           description="Built dynamic user interfaces and real-time applications."
         />
         <Skills
-          name="NextJS"
+          name="API Testing"
           x="-22vw"
           y="-15vw"
-          description="Built scalable web apps with server-side rendering."
+          description=""
         />
         <Skills
-          name="Dynamo DB"
+          name="Test Automation"
           x="15vw"
           y="-12vw"
-          description="Used to design modern, responsive web layouts."
+          description="To reduce manual testing efforts."
         />
 
         {/* Databases */}
@@ -84,10 +84,10 @@ const Skill = () => {
           description="Experience with relational databases for data storage and querying."
         />
         <Skills
-          name="MongoDB"
+          name="Playwright"
           x="25vw"
           y="18vw"
-          description="Experience with NoSQL databases for flexible schema design."
+          description=""
         />
 
         {/* Cloud Platforms */}
