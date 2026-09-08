@@ -46,7 +46,7 @@ const about = () => {
                   transition={{ duration: 0.8 }}
                 >
                   <p className="font-medium text-justify mb-4">
-                    Hi, I’m <strong>Humanvitha</strong>, a Software Engineer
+                    Hi, I’m <strong>Humanvitha</strong>, a Quality Engineer
                     with 3+ years of experience across FinTech and enterprise
                     banking, and a Master’s in Computer Science from{" "}
                     <strong>California State University, Long Beach</strong>.
