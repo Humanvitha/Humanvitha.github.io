@@ -69,7 +69,7 @@ const about = () => {
                   transition={{ duration: 0.8, delay: 0.2 }}
                 >
                   <p className="my-4 font-medium text-justify">
-                    I’m currently a <strong>Software Engineer</strong> at{" "}
+                    I’m currently a <strong>Quality Engineer</strong> at{" "}
                     <strong>Barclays</strong>, where I build AI-powered
                     automation and testing platforms for enterprise credit
                     card systems — including a computer vision pipeline that
