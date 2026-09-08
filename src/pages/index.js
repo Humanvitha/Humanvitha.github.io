@@ -28,18 +28,10 @@ export default function Home() {
               />
 
               <p className="my-4  font-medium md:text-base sm:text-sm leading-tight text-justify">
-                 I&apos;m a Software Engineer who lives at the intersection of clean,
-  user-centric interfaces and applied AI — from building React/Next.js
-  products used by real customers to engineering computer vision and
-  automation pipelines that keep enterprise financial systems accurate
-  and compliant.
+                 I&apos;m a Quality Engineer with a software development background, focused on building reliable systems through test automation, intelligent tooling, and thoughtful engineering. My experience spans enterprise banking and FinTech, from developing React/Next.js applications to automating complex quality workflows with Python.
   <br />
   <br />
-  What excites me most is turning messy, manual processes into
-  intelligent systems — whether that&apos;s an AI pipeline catching document
-  defects with 99%+ accuracy, or a component library that helps a team
-  ship faster. I care about the full stack, from pixel-perfect UI to the
-  logic running underneath it.
+  I enjoy turning repetitive, manual validation into scalable engineering solutions — building automation that improves test efficiency, strengthens coverage, and helps teams ship with confidence. My development background gives me a unique perspective on quality: I don&apos;t just test software; I think about how to make it more testable and reliable.
               </p>
 
               <div className="flex items-center self-start mt-4 lg:self-start">
